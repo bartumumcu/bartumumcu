@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bartumumcu
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: brtmumcu@gmail.com
-- I am a student in Bilkent University
+- I am a freshman student in Bilkent University
